@@ -1,6 +1,39 @@
 ## Project Overview
 세무사 에이전트 (tax agent): 세무 전문가 에이전트와 AI 세무 플랫폼(AIP)을 통한 일반인 세무 문제 해결
 
+##  Team Members
+<table>
+  <tr align="center">
+        <td width="150px">
+      <a href="https://github.com/espada105" target="_blank">
+        <img src="https://avatars.githubusercontent.com/espada105" alt="espada105" />
+      </a>
+    </td>
+    
+   <td width="150px">
+      <a href="https://github.com/dongsinwoo" target="_blank">
+        <img src="https://avatars.githubusercontent.com/dongsinwoo" alt="dongsinwoo" />
+      </a>
+    </td>
+  <td width="150px">
+      <a href="https://github.com/isshoman123" target="_blank">
+        <img src="https://avatars.githubusercontent.com/isshoman123" alt="isshoman123" />
+      </a>
+    </td>
+  </tr>
+  <tr align="center">
+    <td>
+      조장: 홍성인
+    </td>
+    <td>
+      조원: 신동우
+    </td>
+      <td>
+      조원: 김재원
+    </td>
+  </tr>
+</table>
+
 ## 비전 및 목표
 
 일반 납세자들이 경험하는 세무 관련 어려움을 해소하기 위해, 실제 세무사의 전문성을 갖춘 AI 에이전트와 통합 플랫폼을 구축하여 접근성 높은 세무 서비스를 제공합니다.
@@ -106,35 +139,4 @@ AI 및 NLP (예정 Llama로 변경가)
 - Notion: 프로젝트 진행상황 
 
 
-##  Team Members
-<table>
-  <tr align="center">
-        <td width="150px">
-      <a href="https://github.com/espada105" target="_blank">
-        <img src="https://avatars.githubusercontent.com/espada105" alt="espada105" />
-      </a>
-    </td>
-    
-   <td width="150px">
-      <a href="https://github.com/dongsinwoo" target="_blank">
-        <img src="https://avatars.githubusercontent.com/dongsinwoo" alt="dongsinwoo" />
-      </a>
-    </td>
-  <td width="150px">
-      <a href="https://github.com/isshoman123" target="_blank">
-        <img src="https://avatars.githubusercontent.com/isshoman123" alt="isshoman123" />
-      </a>
-    </td>
-  </tr>
-  <tr align="center">
-    <td>
-      조장: 홍성인
-    </td>
-    <td>
-      조원: 신동우
-    </td>
-      <td>
-      조원: 김재원
-    </td>
-  </tr>
-</table>
+
