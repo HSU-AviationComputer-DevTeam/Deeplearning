@@ -115,7 +115,7 @@
 - MongoDB: 세무 문서, 영수증 데이터 등 비정형 데이터 관리
 - Elasticsearch: 세무 법규, 판례 검색 엔진
 
-AI 및 NLP (예정 Llama로 변경가)
+AI 및 NLP (예정 Llama로 변경가능)
 - ~~OpenAI API: 세무 상담 및 자연어 처리 핵심 기능~~
 - ~~Hugging Face Transformers: 세무 특화 NLP 모델 (문서 분류, 정보 추출)~~
 
