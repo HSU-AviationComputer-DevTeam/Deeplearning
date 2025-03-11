@@ -4,9 +4,15 @@ None:
 
 ## Goal
 - conference, journal
-  
-## Tool
+
+## Language
 - Python
+
+## Tool
+- Colab
+- Vscode
+  
+## communication
 - Github
 - Discord
 
